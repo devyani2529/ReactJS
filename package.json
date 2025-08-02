@@ -1,0 +1,26 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "This is Namaste react by akshay saini",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devyani2529/ReactJS.git"
+  },
+  "keywords": [],
+  "author": "Devyani Sonawane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devyani2529/ReactJS/issues"
+  },
+  "homepage": "https://github.com/devyani2529/ReactJS#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
